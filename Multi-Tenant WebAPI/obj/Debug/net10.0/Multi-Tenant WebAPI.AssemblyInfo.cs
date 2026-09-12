@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Multi-Tenant WebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ffc57103441cf9d02acb29ef80eaa972736bc28")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+465241c092775083bd76dfa86c64b376c91d6d4f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Multi-Tenant WebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Multi-Tenant WebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
