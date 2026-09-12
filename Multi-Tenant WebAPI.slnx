@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Application/Application.csproj" Id="cbfed7aa-7434-4d59-8374-7fbff32b9bda" />
+  <Project Path="Domain/Domain.csproj" Id="cdca3719-1d0d-4b7c-86ad-40cc344aaebe" />
+  <Project Path="Infrastructure/Infrastructure.csproj" Id="0a0822de-a9c9-4bc2-964a-aa3f537630c3" />
+  <Project Path="Multi-Tenant WebAPI/Multi-Tenant WebAPI.csproj" />
+  <Project Path="Shared/Shared.csproj" Id="3b567a07-1ab5-4a76-a306-84a3d3098d0b" />
+</Solution>
