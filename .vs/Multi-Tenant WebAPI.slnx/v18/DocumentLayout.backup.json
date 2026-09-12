@@ -67,12 +67,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Application",
+              "Title": "Application.csproj",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\ASP.NET core\\EmployeeSaas\\Application\\Application.csproj",
               "RelativeDocumentMoniker": "Application\\Application.csproj",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\ASP.NET core\\EmployeeSaas\\Application\\Application.csproj",
               "RelativeToolTip": "Application\\Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-09-12T12:34:52.74Z",
               "EditorCaption": ""
