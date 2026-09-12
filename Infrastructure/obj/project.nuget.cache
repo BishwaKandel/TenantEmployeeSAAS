@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CLWwT+i8c/8=",
+  "dgSpecHash": "QhWyK2vGdwQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\ASP.NET core\\Multi-Tenant WebAPI\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\ASP.NET core\\EmployeeSaas\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\automapper\\16.1.1\\automapper.16.1.1.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\dapper\\2.1.79\\dapper.2.1.79.nupkg.sha512",
