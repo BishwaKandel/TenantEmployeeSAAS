@@ -13,3 +13,19 @@ C:\Users\ASUS\Desktop\ASP.NET core\Multi-Tenant WebAPI\Domain\obj\Debug\net10.0\
 C:\Users\ASUS\Desktop\ASP.NET core\Multi-Tenant WebAPI\Domain\obj\Debug\net10.0\refint\Domain.dll
 C:\Users\ASUS\Desktop\ASP.NET core\Multi-Tenant WebAPI\Domain\obj\Debug\net10.0\Domain.pdb
 C:\Users\ASUS\Desktop\ASP.NET core\Multi-Tenant WebAPI\Domain\obj\Debug\net10.0\ref\Domain.dll
+C:\Users\ASUS\Desktop\ASP.NET core\EmployeeSaas\Domain\bin\Debug\net10.0\Domain.deps.json
+C:\Users\ASUS\Desktop\ASP.NET core\EmployeeSaas\Domain\bin\Debug\net10.0\Domain.dll
+C:\Users\ASUS\Desktop\ASP.NET core\EmployeeSaas\Domain\bin\Debug\net10.0\Domain.pdb
+C:\Users\ASUS\Desktop\ASP.NET core\EmployeeSaas\Domain\bin\Debug\net10.0\Shared.dll
+C:\Users\ASUS\Desktop\ASP.NET core\EmployeeSaas\Domain\bin\Debug\net10.0\Shared.pdb
+C:\Users\ASUS\Desktop\ASP.NET core\EmployeeSaas\Domain\obj\Debug\net10.0\Domain.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\ASP.NET core\EmployeeSaas\Domain\obj\Debug\net10.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ASP.NET core\EmployeeSaas\Domain\obj\Debug\net10.0\Domain.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ASP.NET core\EmployeeSaas\Domain\obj\Debug\net10.0\Domain.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ASP.NET core\EmployeeSaas\Domain\obj\Debug\net10.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ASP.NET core\EmployeeSaas\Domain\obj\Debug\net10.0\Domain.sourcelink.json
+C:\Users\ASUS\Desktop\ASP.NET core\EmployeeSaas\Domain\obj\Debug\net10.0\Domain.csproj.Up2Date
+C:\Users\ASUS\Desktop\ASP.NET core\EmployeeSaas\Domain\obj\Debug\net10.0\Domain.dll
+C:\Users\ASUS\Desktop\ASP.NET core\EmployeeSaas\Domain\obj\Debug\net10.0\refint\Domain.dll
+C:\Users\ASUS\Desktop\ASP.NET core\EmployeeSaas\Domain\obj\Debug\net10.0\Domain.pdb
+C:\Users\ASUS\Desktop\ASP.NET core\EmployeeSaas\Domain\obj\Debug\net10.0\ref\Domain.dll
